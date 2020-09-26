@@ -1,6 +1,5 @@
 # Chess-Game
 
-### HW 3: Chess Game
 Ray tracer program that renders a chess scene
 * Create a diffuse, planar sqyar with an 8.9 checkerboard pattern. 
 * Procedural solid texturing to make wood pieces.
